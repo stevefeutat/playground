@@ -69,7 +69,7 @@ flutter:
     - lib/assets/pics/Schritte.png
     - lib/assets/pics/Glueckliche.png
     - lib/assets/pics/profile.png
-    - lib/assets/.env
+    #- lib/assets/.env
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
