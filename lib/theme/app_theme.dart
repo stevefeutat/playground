@@ -23,7 +23,7 @@ ThemeData _asthaTutorialTheme() {
     // below text theme add this
     // Define styles for elevated button
     elevatedButtonTheme: _elevatedButtonTheme(base.elevatedButtonTheme),
-    inputDecorationTheme: _inputDecorationTheme(base.inputDecorationTheme),
+    inputDecorationTheme: _inputDecorationTheme(base.inputDecorationTheme as InputDecorationTheme),
 
     // Set Themes for Input Your homework
 
